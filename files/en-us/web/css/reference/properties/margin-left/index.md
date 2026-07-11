@@ -5,7 +5,7 @@ slug: Web/CSS/Reference/Properties/margin-left
 page-type: css-property
 browser-compat: css.properties.margin-left
 sidebar: cssref
----
+--- 
 
 The **`margin-left`** [CSS](/en-US/docs/Web/CSS) property sets the [margin area](/en-US/docs/Web/CSS/Guides/Box_model/Introduction#margin_area) on the left side of an element. A positive value places it farther from its neighbors, while a negative value places it closer.
 
